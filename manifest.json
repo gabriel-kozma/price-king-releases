@@ -1,22 +1,22 @@
 {
   "releases": [
     {
-      "version": "0.5.3",
+      "version": "0.5.4",
       "platform": "darwin",
       "arch": "arm64",
-      "filename": "PriceKing-Agent-0.5.3-macos-arm64.dmg",
-      "sha256": "5fddf604aece028df668badf7301ffef9e9b8180dbc67754bee8dd2885d8d5df",
-      "download_url": "https://github.com/gabriel-kozma/price-king-releases/releases/download/agent-v0.5.3/PriceKing-Agent-0.5.3-macos-arm64.dmg",
-      "notes": "agent-v0.5.3"
+      "filename": "PriceKing-Agent-macos-arm64.dmg",
+      "sha256": "bd8f6a4868f84120c2e68de41eb5b67189c3730d6a6e83e1e187bd25b0eaba08",
+      "download_url": "https://github.com/gabriel-kozma/price-king-releases/releases/download/agent-v0.5.4/PriceKing-Agent-macos-arm64.dmg",
+      "notes": "agent-v0.5.4"
     },
     {
-      "version": "0.5.3",
+      "version": "0.5.4",
       "platform": "windows",
       "arch": "x86_64",
-      "filename": "PriceKing-Agent-0.5.3-windows-x86_64.exe",
-      "sha256": "9f581b333f7a460506e935b29e1658a53d0e6cdcb6ce654a86dfad9c1b95ba8d",
-      "download_url": "https://github.com/gabriel-kozma/price-king-releases/releases/download/agent-v0.5.3/PriceKing-Agent-0.5.3-windows-x86_64.exe",
-      "notes": "agent-v0.5.3"
+      "filename": "PriceKing-Agent-windows-x86_64.exe",
+      "sha256": "243e6651a0a92ac82f608a4e4761667be56dd2fb8deb1bfe6ab63fd61c41fc39",
+      "download_url": "https://github.com/gabriel-kozma/price-king-releases/releases/download/agent-v0.5.4/PriceKing-Agent-windows-x86_64.exe",
+      "notes": "agent-v0.5.4"
     }
   ]
 }
